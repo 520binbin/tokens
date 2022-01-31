@@ -1,11 +1,11 @@
 {
- "name": "GOAT Token",
- "website": "http://www.goatfinance.io",
- "description": "GOAT-Open a new world of metaverse",
- "explorer": "https://bscscan.com/token/0xb1033Fce0bA6415f60FD592f90BE10580bC39830",
+ "name": "520",
+ "website": "www.0520.love",
+ "description": "520 digital assets to spread the consensus of love",
+ "explorer": "https://bscscan.com/token/0xbb6A5Ed522e1f8C3abe6064A9B5998F737ebe6df",
  "type": "BEP20",
- "symbol": "GOAT",
- "decimals": 8,
+ "symbol": "520",
+ "decimals": 9,
  "status": "active",
- "id": "0xb1033Fce0bA6415f60FD592f90BE10580bC39830"
+ "id": "0xbb6A5Ed522e1f8C3abe6064A9B5998F737ebe6df"
 }
